@@ -248,6 +248,7 @@
 - 📚 [tails](https://github.com/thedevdojo/tails) - Hand-crafted templates and components using Tailwind CSS.
 - 📚 [Svelte Headless UI](https://github.com/rgossiaux/svelte-headlessui) - Unofficial Svelte port of Headless UI.
 - 🧩 [TailBlocks](https://mertjf.github.io/tailblocks) - 60+ different ready to use Tailwind CSS blocks.
+- 🧩 [Fancy Tailwind](https://fancytailwind.com) - Large collection (700+) of Tailwind CSS components with animations and effects. JavaScript included.
 - 🧩 [Tailwind Components](https://tailwindcomponents.com) - Community-driven Tailwind CSS component repository.
 - 🧩 [Tailwind Toolbox](https://www.tailwindtoolbox.com) - Templates, components and resources.
 - 🧩 [Meraki UI Components](https://merakiui.com) - Beautiful Tailwind CSS components that support RTL languages.
